@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: AU Bank Project - All
+Content-Package-Roots: /apps/AUBank-packages,/apps/AUBank-vendor-packa
+ ges
+Implementation-Version: 0.0.1-SNAPSHOT
+Build-Jdk-Spec: 1.8
+Content-Package-Type: container
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Content-Package-Id: com.adobe.aem.guides:AU-Bank-CAMPAIGN.all:0.0.1-SN
+ APSHOT
+Content-Package-Description: All content package for AU Bank Project
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AU Bank Project - All</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="name">AU-Bank-CAMPAIGN.all</entry>
+<entry key="created">2024-04-15T04:29:04.499Z</entry>
+<entry key="groupId">com.adobe.aem.guides</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.adobe.aem.guides</entry>
+<entry key="description">All content package for AU Bank Project</entry>
+<entry key="artifactId">AU-Bank-CAMPAIGN.all</entry>
+</properties>
